@@ -1,5 +1,5 @@
 {
-	"name": "sg-random-between`",
+	"name": "sg-random-between",
 	"repo": "davidtsuji/sg-random-between",
 	"description": "Get a random number between two numbers (inclusive)",
 	"version": "0.0.1",
